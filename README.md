@@ -36,7 +36,7 @@ La siguente imagen representa el resultado final de este flow.
 
 - [Youtube](https://youtu.be/3BTglwcmw0c)
 
-# Creditos
+## Creditos
 Desarrollado por Ing. Diego Jasso Miranda
 - [Facebook](https://www.facebook.com/jasso.diego.5/)
 - [GitHub](https://github.com/DiegoJm10)
