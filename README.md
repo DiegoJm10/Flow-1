@@ -30,5 +30,5 @@ En este flow solo debemos abrir la pestaña **Debug**
 ## Resultados
 La siguente imagen representa el resultado final de este flow.
 
-[](https://github.com/DiegoJm10/Flow-1/blob/main/Captura%20desde%202022-09-19%2008-31-18.png?raw=true)
+![](https://github.com/DiegoJm10/Flow-1/blob/main/Captura%20desde%202022-09-19%2008-31-18.png?raw=true)
 
